@@ -1,10 +1,9 @@
 # Gauthaman Sahadevan
-> 10+ years of experience in architecture design, development, testing, implementation, and maintenance of web applications, web services, and APIs using Java and associated technologies.
+Full Stack Developer | Senior Java Developer
 
-:black_medium_small_square:  Analytical thinker and strong problem solver\
-:black_medium_small_square:  Individual contributor for multiple on-shore delivery projects\
-:black_medium_small_square:  Agile, Scrum, and Test-Driven projects\
-:black_medium_small_square:  Retail, Banking and Litigation domain knowledge
+:speech_balloon: About Me
+---
+> 10+ years of experience in architecture design, development, testing, implementation, and maintenance of web applications, web services, and APIs using Java and associated technologies. Analytical thinker and strong problem solver. Individual contributor for multiple on-shore delivery projects. Agile, Scrum, and Test-Driven projects. Retail, Banking and Litigation domain knowledge.
 
 :muscle: Technical Proficiency 
 ---
@@ -14,7 +13,7 @@
 :black_medium_small_square:  Sound knowledge in Java, RESTful web services, Spring MVC and Hibernate\
 :black_medium_small_square:  Proficient in database design, writing efficient SQL queries, optimized stored procedures and functions  
 
-:speech_balloon: Skill Sets
+:brain: Skills
 ---
 __<ins>Languages and Technologies</ins>__ : Java, Python, Spring, Hibernate, RESTful, Shell, Batch\
 __<ins>Web Technologies</ins>__ : Angular, React, TypeScript, JavaScript, jQuery, JSON, HTML5, CSS3, Bootstrap, NodeJS\
